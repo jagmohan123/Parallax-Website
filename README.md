@@ -5,6 +5,8 @@ Customizable: Easily customize the content, layout, and styling to fit your bran
 Reusable Components: Utilize reusable components to streamline development and maintain consistency throughout your website.
 Modern Technologies: Built with modern web technologies such as HTML5, CSS3, and JavaScript for optimal performance and compatibility.
 
+# Live Link
+https://jagmohan123.github.io/Parallax-Website/
 
 # Product 
 made this project using HTML and CSS where I used some advanced concepts of CSS such as 3d concept, and flex concept.
@@ -13,6 +15,8 @@ made this project using HTML and CSS where I used some advanced concepts of CSS 
 
  1. heading tag 2. image tag 3. unorder list 4. anchor tag 5. table tag  6. section tag 7. div tag8. p tag
  9. br tag 10.  b tag 11. details tag 12. summary tag 13. footer tag 14. small tag   15. use some predefined code and class to make the copyright symbol
+
+
 
 
 ### some of the imp  CSS properties I used in the parallax website.
